@@ -1,4 +1,4 @@
-# Configure an AWS profile with proper credentials
+## Configure an AWS profile with proper credentials
 aws configure --profile deep-dive
 
 # Linux or MacOS
